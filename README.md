@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![BatataDoc3's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatataDoc3&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+
 <!--
 **BatataDoc3/BatataDoc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
